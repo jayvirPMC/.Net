@@ -1,0 +1,14 @@
+C:\Users\chhasatiyaj\.Net\TestnewApp\bin\Debug\net8.0\TestnewApp.exe
+C:\Users\chhasatiyaj\.Net\TestnewApp\bin\Debug\net8.0\TestnewApp.deps.json
+C:\Users\chhasatiyaj\.Net\TestnewApp\bin\Debug\net8.0\TestnewApp.runtimeconfig.json
+C:\Users\chhasatiyaj\.Net\TestnewApp\bin\Debug\net8.0\TestnewApp.dll
+C:\Users\chhasatiyaj\.Net\TestnewApp\bin\Debug\net8.0\TestnewApp.pdb
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.AssemblyInfoInputs.cache
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.AssemblyInfo.cs
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.csproj.CoreCompileInputs.cache
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.dll
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\refint\TestnewApp.dll
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.pdb
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.genruntimeconfig.cache
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\ref\TestnewApp.dll
