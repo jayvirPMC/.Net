@@ -1,0 +1,18 @@
+1. View state - it is a feature in asp.net that helps web pages remember their state(or data) across different requests or interactions with the user.
+2. session state - it is used to store user specific information across multiple web pages.
+
+
+24/01/2024
+home work
+1. state management and controls
+2. caching, binding and authentication and autorization
+
+company work
+1. data type
+2. loops
+3. conditional operatior
+4. array
+5. enums 
+6. access modifiers
+7. reflections
+8. overloading and overriding

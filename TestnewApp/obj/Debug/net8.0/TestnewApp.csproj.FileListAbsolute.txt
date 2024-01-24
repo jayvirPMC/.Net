@@ -12,3 +12,4 @@ C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\refint\TestnewApp.dll
 C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.pdb
 C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.genruntimeconfig.cache
 C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\ref\TestnewApp.dll
+C:\Users\chhasatiyaj\.Net\TestnewApp\obj\Debug\net8.0\TestnewApp.sourcelink.json
