@@ -1,0 +1,23 @@
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\ADO.NET and Entity Framework.exe
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\ADO.NET and Entity Framework.deps.json
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\ADO.NET and Entity Framework.runtimeconfig.json
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\ADO.NET and Entity Framework.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\ADO.NET and Entity Framework.pdb
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.csproj.AssemblyReference.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.AssemblyInfoInputs.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.AssemblyInfo.cs
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.sourcelink.json
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.csproj.CopyComplete
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\refint\ADO.NET and Entity Framework.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.pdb
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ADO.NET and Entity Framework.genruntimeconfig.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\.Net\ADO.NET and Entity Framework\obj\Debug\net8.0\ref\ADO.NET and Entity Framework.dll
