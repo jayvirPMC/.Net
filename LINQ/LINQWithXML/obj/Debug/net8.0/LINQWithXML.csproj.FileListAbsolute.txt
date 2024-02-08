@@ -1,0 +1,15 @@
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\bin\Debug\net8.0\LINQWithXML.exe
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\bin\Debug\net8.0\LINQWithXML.deps.json
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\bin\Debug\net8.0\LINQWithXML.runtimeconfig.json
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\bin\Debug\net8.0\LINQWithXML.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\bin\Debug\net8.0\LINQWithXML.pdb
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.AssemblyInfoInputs.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.AssemblyInfo.cs
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.csproj.CoreCompileInputs.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.sourcelink.json
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\refint\LINQWithXML.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.pdb
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\LINQWithXML.genruntimeconfig.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithXML\obj\Debug\net8.0\ref\LINQWithXML.dll

@@ -1,0 +1,15 @@
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\bin\Debug\net8.0\LINQWithObj.exe
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\bin\Debug\net8.0\LINQWithObj.deps.json
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\bin\Debug\net8.0\LINQWithObj.runtimeconfig.json
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\bin\Debug\net8.0\LINQWithObj.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\bin\Debug\net8.0\LINQWithObj.pdb
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.AssemblyInfoInputs.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.AssemblyInfo.cs
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.csproj.CoreCompileInputs.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.sourcelink.json
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\refint\LINQWithObj.dll
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.pdb
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\LINQWithObj.genruntimeconfig.cache
+C:\Users\chhasatiyaj\Desktop\asp.net\Asp.Net\LINQ\LINQWithObj\obj\Debug\net8.0\ref\LINQWithObj.dll

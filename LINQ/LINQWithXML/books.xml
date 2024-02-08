@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <title>The God of Small Things</title>
+    <author>Arundhati Roy</author>
+    <genre>Fiction</genre>
+    <year>1997</year>
+  </book>
+  <book>
+    <title>Midnight's Children</title>
+    <author>Salman Rushdie</author>
+    <genre>Fiction</genre>
+    <year>1981</year>
+  </book>
+  <book>
+    <title>The White Tiger</title>
+    <author>Aravind Adiga</author>
+    <genre>Fiction</genre>
+    <year>2008</year>
+  </book>
+  <book>
+    <title>The Guide</title>
+    <author>R. K. Narayan</author>
+    <genre>Fiction</genre>
+    <year>1958</year>
+  </book>
+  <book>
+    <title>The Palace of Illusions</title>
+    <author>Chitra Banerjee Divakaruni</author>
+    <genre>Mythological Fiction</genre>
+    <year>2008</year>
+  </book>
+  <book>
+    <title>Exprement with Truth</title>
+    <author>gandhi</author>
+    <genre>biography</genre>
+    <year>1950</year>
+  </book>
+</books>
