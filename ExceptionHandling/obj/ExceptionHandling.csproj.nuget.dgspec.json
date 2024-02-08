@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chhasatiyaj\\.Net\\ExceptionHandling\\ExceptionHandling.csproj": {}
+    "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\ExceptionHandling\\ExceptionHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chhasatiyaj\\.Net\\ExceptionHandling\\ExceptionHandling.csproj": {
+    "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\ExceptionHandling\\ExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chhasatiyaj\\.Net\\ExceptionHandling\\ExceptionHandling.csproj",
+        "projectUniqueName": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\ExceptionHandling\\ExceptionHandling.csproj",
         "projectName": "ExceptionHandling",
-        "projectPath": "C:\\Users\\chhasatiyaj\\.Net\\ExceptionHandling\\ExceptionHandling.csproj",
+        "projectPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\ExceptionHandling\\ExceptionHandling.csproj",
         "packagesPath": "C:\\Users\\chhasatiyaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chhasatiyaj\\.Net\\ExceptionHandling\\obj\\",
+        "outputPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\ExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chhasatiyaj\\AppData\\Roaming\\NuGet\\NuGet.Config"

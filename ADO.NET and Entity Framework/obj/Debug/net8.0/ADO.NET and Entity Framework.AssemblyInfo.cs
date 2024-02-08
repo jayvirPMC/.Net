@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADO.NET and Entity Framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21167728d5706d9c1e0642acd3302d29eac042f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b92eba878f8d81d2beb20f71b36e1c9fba322799")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADO.NET and Entity Framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADO.NET and Entity Framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

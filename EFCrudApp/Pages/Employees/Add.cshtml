@@ -1,0 +1,35 @@
+@page
+@model EFCrudApp.Pages.Employees.AddModel
+@{
+
+}
+
+<h1 class="mb-3">Add New Employee</h1>
+
+<div class="mb-3">
+    <form class="row g-3" method="post">
+        <div class="col-md-6">
+            <label for="inputName" class="form-label">Name</label>
+            <input type="text" class="form-control" id="inputName" asp-for="AddEmployeeRequest.Name">
+        </div>
+        <div class="col-md-6">
+            <label for="inputEmail4" class="form-label">Email</label>
+            <input type="email" class="form-control" id="inputEmail4" asp-for="AddEmployeeRequest.Email">
+        </div>
+        <div class="col-md-6">
+            <label for="inputSalary" class="form-label">Salary</label>
+            <input type="number" class="form-control" id="inputSalary" asp-for="AddEmployeeRequest.Salary">
+        </div>
+        <div class="col-md-6">
+            <label for="inputDOB" class="form-label">Date of Birth</label>
+            <input type="date" class="form-control" id="inputDOB" asp-for="AddEmployeeRequest.DateOfBirth">
+        </div>
+        <div class="col-md-6">
+            <label for="inputDepartment" class="form-label">Department</label>
+            <input type="text" class="form-control" id="inputDepartment" asp-for="AddEmployeeRequest.Department">
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Sign in</button>
+        </div>
+    </form>
+</div>

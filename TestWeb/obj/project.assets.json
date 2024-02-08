@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chhasatiyaj\\.Net\\TestWeb\\TestWeb.csproj",
+      "projectUniqueName": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\TestWeb\\TestWeb.csproj",
       "projectName": "TestWeb",
-      "projectPath": "C:\\Users\\chhasatiyaj\\.Net\\TestWeb\\TestWeb.csproj",
+      "projectPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\TestWeb\\TestWeb.csproj",
       "packagesPath": "C:\\Users\\chhasatiyaj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chhasatiyaj\\.Net\\TestWeb\\obj\\",
+      "outputPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\TestWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chhasatiyaj\\AppData\\Roaming\\NuGet\\NuGet.Config"

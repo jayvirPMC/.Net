@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chhasatiyaj\\.Net\\OOPs Concepts\\OOPs Concepts.csproj",
+      "projectUniqueName": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\OOPs Concepts\\OOPs Concepts.csproj",
       "projectName": "OOPs Concepts",
-      "projectPath": "C:\\Users\\chhasatiyaj\\.Net\\OOPs Concepts\\OOPs Concepts.csproj",
+      "projectPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\OOPs Concepts\\OOPs Concepts.csproj",
       "packagesPath": "C:\\Users\\chhasatiyaj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chhasatiyaj\\.Net\\OOPs Concepts\\obj\\",
+      "outputPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\OOPs Concepts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chhasatiyaj\\AppData\\Roaming\\NuGet\\NuGet.Config"

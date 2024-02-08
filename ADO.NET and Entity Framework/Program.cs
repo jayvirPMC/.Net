@@ -4,63 +4,85 @@ using System.Data.SqlClient;
 
 public class Program {
     static void Main(string[] args) {
-        // Console.WriteLine("jay mataji");
-        Program.connection();
+        // Program.connection();
+        // Program.dataAdapterWithDataSet();
+        Program.dataAdapterWithDataTable();
     }
 
     static void connection() {
-        string cs = "data source=PMCLAP1248;database=test;user id=sa;password=PmcIndia@123";
-
         SqlConnection conn = null;
         try {
-            conn = new SqlConnection(cs);
-            conn.Open();
 
-            // -------------------insert data in table -------------------
+            string cs = "data source=PMCLAP1248; database=test; user id=sa; password=PmcIndia@123";
+            using(conn = new SqlConnection(cs)) {
+                
+                // SqlCommand cmd = new SqlCommand("select * from adoCrud", conn);
+                // SqlCommand cmd = new SqlCommand("select count(id) from adoCrud", conn);
+                SqlCommand cmd = new SqlCommand("insert into adoCrud(name) values ('mandip')", conn);
+                SqlCommand cmd2 = new SqlCommand("select * from adoCrud", conn);
+                
+                conn.Open();
 
-            // string insertSql = "insert into adoCrud(name) values ('meet')";
+                int count = (int)cmd.ExecuteNonQuery();
+                SqlDataReader sdr = cmd2.ExecuteReader();
+                Console.WriteLine("inserted: " + count);
 
-            // SqlCommand cmd = new SqlCommand(insertSql, conn);
-
-            // int isInserted = cmd.ExecuteNonQuery();
-            // Console.WriteLine(isInserted);
-            // Console.WriteLine("inserted success");
-
-
-            // -------------------select data from table -----------------
-            string selectSql = "select * from adoCrud";
-            SqlCommand cmd1 = new SqlCommand(selectSql, conn);
-
-            SqlDataReader sdr = cmd1.ExecuteReader();
-            Console.WriteLine();
-            while(sdr.Read()) {
-                Console.WriteLine(sdr["id"] + " " + sdr["name"]);
+                while(sdr.Read()){
+                    Console.WriteLine(sdr["id"] + " " + sdr["name"]);
+                }
             }
 
 
-
-            // -------------------delete data from table ---------------
-            // string deleteSql = "delete from adoCrud where id = 3";
-            // SqlCommand cmd3 = new SqlCommand(deleteSql, conn);
-
-            // int dlt = cmd3.ExecuteNonQuery();
-            // Console.WriteLine(dlt);
-            // Console.WriteLine("delete");
-
-
-
-
-            // if(isInserted) {
-            //     Console.WriteLine("inserted success");
-            // } else {
-            //     Console.WriteLine("inserted fail");
-            // }
-
         } catch(Exception e) {
-            Console.WriteLine(e.Message);
+            Console.WriteLine("Error occured: " + e.Message);
         } finally {
             conn.Close();
         }
     }  
+
+    static void dataAdapterWithDataSet() {
+        string cs = "data source=PMCLAP1248; database=test; user id=sa; password=PmcIndia@123";
+
+        SqlConnection conn = null;
+
+        try {
+
+            using(conn = new SqlConnection(cs)) {
+                SqlDataAdapter sda = new SqlDataAdapter("select * from adoCrud", conn);
+                DataSet ds = new DataSet();
+
+                sda.Fill(ds);
+
+                foreach(DataRow row in ds.Tables[0].Rows) {
+                    Console.WriteLine(row[0] + " " + row[1]);
+                }
+            }
+
+        } catch(Exception e) {
+            Console.WriteLine("error occured: " + e.Message);
+        }
+    }
+
+    static void dataAdapterWithDataTable() {
+        string cs = "data source=PMCLAP1248 database=test; user id=sa; password=PmcIndia@123";
+
+        SqlConnection conn = null;
+
+        try{
+
+            using(conn = new SqlConnection(cs)){
+                SqlDataAdapter sda = new SqlDataAdapter("select * from adoCrud", conn);
+                DataTable dt = new DataTable();
+                sda.Fill(dt);
+
+                foreach(DataRow row in dt.Rows) {
+                    Console.WriteLine(row["id"] + " " + row["name"]);
+                }
+            }
+
+        } catch(Exception e){
+            Console.WriteLine("Error occured: " + e.Message);
+        }
+    }
 }
 

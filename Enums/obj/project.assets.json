@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chhasatiyaj\\.Net\\Enums\\Enums.csproj",
+      "projectUniqueName": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\Enums\\Enums.csproj",
       "projectName": "Enums",
-      "projectPath": "C:\\Users\\chhasatiyaj\\.Net\\Enums\\Enums.csproj",
+      "projectPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\Enums\\Enums.csproj",
       "packagesPath": "C:\\Users\\chhasatiyaj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chhasatiyaj\\.Net\\Enums\\obj\\",
+      "outputPath": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\Enums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chhasatiyaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
