@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using EFCrudApp.Models.ViewModel;
+using EFCrudApp.Models;
 
 namespace EFCrudApp.Pages.Employees
 {

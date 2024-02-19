@@ -1,0 +1,9 @@
+200 ok
+201 new resource is created
+204 no content
+301 moved permenently
+404 not found
+400 bad request
+405 method not allowed
+500 internal server error
+503 service not available

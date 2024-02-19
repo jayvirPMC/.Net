@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "SG/x+ek201DDaQfa72B2yXl5mB79jjc0FXcd7JTkzFo=",
+  "Source": "TestApi",
+  "BasePath": "_content/TestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestApi\\wwwroot",
+      "Source": "TestApi",
+      "ContentRoot": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\TestApi\\wwwroot\\",
+      "BasePath": "_content/TestApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\TestApi\\wwwroot\\employee.html",
+      "SourceId": "TestApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chhasatiyaj\\Desktop\\asp.net\\Asp.Net\\TestApi\\wwwroot\\",
+      "BasePath": "_content/TestApi",
+      "RelativePath": "employee.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee.html"
+    }
+  ]
+}

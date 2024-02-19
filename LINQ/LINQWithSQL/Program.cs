@@ -5,7 +5,8 @@ using Microsoft.EntityFrameworkCore.SqlServer;
 using Microsoft.EntityFrameworkCore.Design;
 
 public class Employee {
-    public int Id { get; set; }
+
+    public int Id {get; set; }
     public string Name {get; set; }
     public string Email {get; set; }
     public long Salary {get; set; }
@@ -30,8 +31,8 @@ public class Program {
         // Program.selectLinq();
         // Program.update();
         Program.select();
-        Program.delete();
-        Program.select();
+        // Program.delete();
+        // Program.select();
         
     }
 
@@ -74,7 +75,7 @@ public class Program {
             Console.WriteLine("\nEmployees with salary >= 9000000: \n");
 
             foreach(var emp in empList) {
-                Console.WriteLine("Id: " + emp.Id + " Name: " +emp.Name + " Email: " + emp.Email + " Salary: " + emp.Salary + " DOB: " + emp.DateOfBirth.ToString("dd/MM/yyyy") + " Department: " + emp.Department );
+                Console.WriteLine("Id: " + emp.Id + " Name: " + emp.Name + " Email: " + emp.Email + " Salary: " + emp.Salary + " DOB: " + emp.DateOfBirth.ToString("dd/MM/yyyy") + " Department: " + emp.Department );
             }
             
         }
